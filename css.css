@@ -1,0 +1,12 @@
+.gallery {
+    padding: 5px;
+    width:25%;
+    height:200px;
+}
+
+.name {
+  position: absolute;
+  margin: auto;
+  top: 50%;
+  left: 40%;
+}
